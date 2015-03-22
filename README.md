@@ -9,6 +9,6 @@
 - **cmake**: Build script's reusable pieces
 - **demos**: Engine showcases
 - **slides**: Engine documentation
-- **tests**: Tests (note that build servers may not have OpenGL)
+- **tests**: Automated Tests (Requires OpenGL)
 
 ### **Features**
